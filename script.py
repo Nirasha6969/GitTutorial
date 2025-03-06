@@ -1,5 +1,8 @@
-def subtract_numbers(a, b):
-    return a - b
+def add_numbers(a, b):
+    return a + b
 
-result = subtract_numbers(5, 3)
-print("The difference is:", result)
+result = add_numbers(5, 3)
+print("The sum is:", result)
+
+# New change
+print("The difference is:", 5 - 3)
